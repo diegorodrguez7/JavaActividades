@@ -1,0 +1,10 @@
+1232****titulo2****2011****1****42417636R****true
+2222****titulo223****2011****2****dinero****1****Febrero****true****Diego
+2225****titulo223****2011****2****dinero****1****Febrero****true****Diego
+2223****titulo24****2011****2****dinero****1****Febrero****true****Diego
+2224****titulo255****2011****2****dinero****1****Febrero****true****Diego
+2221****titulo33****2011****2****dinero****1****Febrero****true****Diego
+1235****titulo4****2011****1****42417636R****true
+1233****titulo65****2011****1****42417636R****true
+1234****titulo8****2011****1****42417636R****true
+1237****titulo9****2011****1****42417636R****true
